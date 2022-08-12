@@ -14,7 +14,7 @@
 body{
       margin: 0px;
         font-family: sans-serif;
-       
+        overflow-x: hidden;
     }
 
 .inline-display{
